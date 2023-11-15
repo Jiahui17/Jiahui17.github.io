@@ -1,7 +1,6 @@
 # Jiahui's Personal Website
 
-![mypic](assets/user/jiahui_profile_monterey.jpg =250x)
-<img src="assets/user/jiahui_profile_monterey.jpg" alt="drawing" width="100"/>
+![mypic](assets/user/jiahui_profile_monterey.jpg)
 
 ## About me
 
