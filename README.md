@@ -27,3 +27,5 @@ I have a background in telecommunications engineering. I have a laurea in Electr
 ## Academic Services
 
 Secondary reviewer in ASAP~('23), DSD~('23), FPT~('22, '23), FPGA~('24).
+
+<img markdown="1" align="right" src="assets/user/jiahui_profile_monterey.jpg">
