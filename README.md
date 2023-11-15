@@ -9,7 +9,7 @@ I have a background in telecommunications engineering. I have a laurea in Electr
 
 [Email](mailto:jxu@ethz.ch), [Google Scholar](https://scholar.google.com/citations?user=SO-HH4gAAAAJ&hl=en&authuser=1), [LinkedIn](https://www.linkedin.com/in/jiahui-xu-787483204/), [Our research group](https://dynamo.ethz.ch/).
 
-![mypic](assets/user/profile.jpg)
+![mypic](assets/user/jiahui_profile_monterey.jpg =200x*)
 
 ## Publications
 
