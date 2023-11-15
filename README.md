@@ -1,5 +1,6 @@
 # Jiahui's Personal Website
-![markdown logo](assets/user/jiahui_profile_monterey.jpg)
+
+<img src="assets/user/jiahui_profile_monterey.jpg" alt="drawing" width="200"/>
 
 _`Last Updated: 7/7/2022`_ [`edit`](https://github.com/dandalpiaz/markdown-pages/edit/main/README.md)
 
