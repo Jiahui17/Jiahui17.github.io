@@ -1,8 +1,7 @@
 # Jiahui's Personal Website
 
+![mypic](assets/user/jiahui_profile_monterey.jpg =250x)
 <img src="assets/user/jiahui_profile_monterey.jpg" alt="drawing" width="100"/>
-
-_`Last Updated: 7/7/2022`_ [`edit`](https://github.com/dandalpiaz/markdown-pages/edit/main/README.md)
 
 ## About me
 
