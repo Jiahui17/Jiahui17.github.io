@@ -3,20 +3,11 @@
 
 ## About me
 
-Hi! I am Jiahui Xu, a PhD student from Beijing, China. I joined the Digital
-Systems and Design Automation Group (DYNAMO) at ETH Zurich in 2022. I am
-supervised by Prof. Lana Josipović. My research aims to improve high-level
-synthesis design flow using formal methods.
+Hi! I am Jiahui Xu, a PhD student from Beijing, China. I joined the Digital Systems and Design Automation Group (DYNAMO) at ETH Zurich in 2022. I am supervised by Prof. Lana Josipović. My research aims to improve high-level synthesis design flow using formal methods.
 
-I have a background in telecommunications engineering. I have a laurea in
-Electronic and Communications engineering from Politecnico di Torino in Italy,
-and a master’s degree in Communications Engineering from Technical University
-of Munich in Germany.
+I have a background in telecommunications engineering. I have a laurea in Electronic and Communications engineering from Politecnico di Torino in Italy, and a master’s degree in Communications Engineering from Technical University of Munich in Germany.
 
-[Email](mailto:jxu@ethz.ch),
-[Google Scholar](https://scholar.google.com/citations?user=SO-HH4gAAAAJ&hl=en&authuser=1),
-[LinkedIn](https://www.linkedin.com/in/jiahui-xu-787483204/),
-[Our research group](https://dynamo.ethz.ch/).
+[Email](mailto:jxu@ethz.ch), [Google Scholar](https://scholar.google.com/citations?user=SO-HH4gAAAAJ&hl=en&authuser=1), [LinkedIn](https://www.linkedin.com/in/jiahui-xu-787483204/), [Our research group](https://dynamo.ethz.ch/).
 
 ![mypic](assets/user/jiahui_profile_monterey.jpg =120x*)
 
