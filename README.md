@@ -13,9 +13,9 @@ My contacts: [Email](mailto:jxu@ethz.ch), [LinkedIn](https://www.linkedin.com/in
 
 ## Publications
 
-- **Jiahui Xu** and Lana Josipović. [Automatic Inductive Invariant Generation for Scalable Dataflow Circuit Verification](https://dynamo.ethz.ch/wp-content/uploads/sites/22/2023/10/Xu_ICCAD23_Inductive_Invariants.pdf). *In Proceedings of the Intl. Conference on Computer-Aided Design (ICCAD '23)*, to appear.
-- **Jiahui Xu** and Lana Josipović. [Automatic Inductive Invariant Generation for Scalable Dataflow Circuit Verification](https://dynamo.ethz.ch/wp-content/uploads/sites/22/2023/10/Xu_IWLS23_Inductive_Invariants.pdf). *In Proceedings of the Intl. Workshop on Logic Synthesis (IWLS '23)*, pages 179–87, Lausanne, Jun 2023.
-- **Jiahui Xu**, Emmet Murphy, Jordi Cortadella, and Lana Josipović. [Eliminating Excessive Dynamism of Dataflow Circuits Using Model Checking](https://dynamo.ethz.ch/wp-content/uploads/sites/22/2023/03/Xu_FPGA23_EliminatingExcessiveDynamism.pdf). *In Proceedings of the 31st ACM/SIGDA Intl. Symposium on Field Programmable Gate Arrays (FPGA '23)*, pages 27–37, Monterey, CA, February 2023.
+- **Jiahui Xu** and Lana Josipović. [Automatic Inductive Invariant Generation for Scalable Dataflow Circuit Verification](https://dynamo.ethz.ch/wp-content/uploads/sites/22/2023/10/Xu_ICCAD23_Inductive_Invariants.pdf). In *Proceedings of the Intl. Conference on Computer-Aided Design (ICCAD '23)*, to appear.
+- **Jiahui Xu** and Lana Josipović. [Automatic Inductive Invariant Generation for Scalable Dataflow Circuit Verification](https://dynamo.ethz.ch/wp-content/uploads/sites/22/2023/10/Xu_IWLS23_Inductive_Invariants.pdf). In *Proceedings of the Intl. Workshop on Logic Synthesis (IWLS '23)*, pages 179–87, Lausanne, Jun 2023.
+- **Jiahui Xu**, Emmet Murphy, Jordi Cortadella, and Lana Josipović. [Eliminating Excessive Dynamism of Dataflow Circuits Using Model Checking](https://dynamo.ethz.ch/wp-content/uploads/sites/22/2023/03/Xu_FPGA23_EliminatingExcessiveDynamism.pdf). In *Proceedings of the 31st ACM/SIGDA Intl. Symposium on Field Programmable Gate Arrays (FPGA '23)*, pages 27–37, Monterey, CA, February 2023.
 
 ## Education
 
