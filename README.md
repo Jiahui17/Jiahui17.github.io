@@ -20,7 +20,7 @@ My contacts: [Email](mailto:jxu@ethz.ch), [LinkedIn](https://www.linkedin.com/in
 ## Education
 
 - **Ph.D., ETH Zurich (2022 - Present)** in the Dept. of Information Technology and Electrical Engineering. 
-- **M.Sc.with high distinction, Technical University of Munich (2019 - 2021)** in Communications Engineering. 
+- **M.Sc. with high distinction, Technical University of Munich (2019 - 2021)** in Communications Engineering. 
 - **B.Sc., Politecnico di Torino (2016 - 2019)** in Electronic and Communications Engineering. 
 
 ## Awards
