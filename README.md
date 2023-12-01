@@ -29,4 +29,6 @@ My contacts: [Email](mailto:jxu@ethz.ch), [LinkedIn](https://www.linkedin.com/in
 
 ## Academic Services
 
-Secondary reviewer in ASAP ('23), DSD ('23), FPT ('22, '23), FPGA ('24).
+- Publicity co-chair at IWLS ('23).
+- Secondary reviewer at ASAP ('23), DSD ('23), FPT ('22, '23), FPGA ('24).
+
