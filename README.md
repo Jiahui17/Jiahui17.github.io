@@ -15,14 +15,14 @@ My contacts: [Email](mailto:jxu@ethz.ch), [LinkedIn](https://www.linkedin.com/in
 
 - **Jiahui Xu** and Lana Josipović. Suppressing Spurious Dynamism of Dataflow Circuits via Latency and Occupancy Balancing. In *Proceedings of the 32nd ACM/SIGDA Intl. Symposium on Field Programmable Gate Arrays (FPGA '24)*, to appear, Monterey, CA, March 2024.
 - **Jiahui Xu** and Lana Josipović. [Automatic Inductive Invariant Generation for Scalable Dataflow Circuit Verification](https://dynamo.ethz.ch/wp-content/uploads/sites/22/2023/10/Xu_ICCAD23_Inductive_Invariants.pdf). In *Proceedings of the Intl. Conference on Computer-Aided Design* (ICCAD '23), pages 1–9, San Francisco, CA, October 2023.
-- **Jiahui Xu** and Lana Josipović. [Automatic Inductive Invariant Generation for Scalable Dataflow Circuit Verification](https://dynamo.ethz.ch/wp-content/uploads/sites/22/2023/10/Xu_IWLS23_Inductive_Invariants.pdf). In *Proceedings of the Intl. Workshop on Logic \& Synthesis* (IWLS '23), pages 179–87, Lausanne, June 2023.
+- **Jiahui Xu** and Lana Josipović. [Automatic Inductive Invariant Generation for Scalable Dataflow Circuit Verification](https://dynamo.ethz.ch/wp-content/uploads/sites/22/2023/10/Xu_IWLS23_Inductive_Invariants.pdf). In *Proceedings of the Intl. Workshop on Logic & Synthesis* (IWLS '23), pages 179–87, Lausanne, June 2023.
 - **Jiahui Xu**, Emmet Murphy, Jordi Cortadella, and Lana Josipović. [Eliminating Excessive Dynamism of Dataflow Circuits Using Model Checking](https://dynamo.ethz.ch/wp-content/uploads/sites/22/2023/03/Xu_FPGA23_EliminatingExcessiveDynamism.pdf). In *Proceedings of the 31st ACM/SIGDA Intl. Symposium on Field Programmable Gate Arrays (FPGA '23)*, pages 27–37, Monterey, CA, February 2023.
 
 ## Education
 
-- **Ph.D., ETH Zurich (2022 - Present)** in the Dept. of Information Technology and Electrical Engineering. 
-- **M.Sc. with high distinction, Technical University of Munich (2019 - 2021)** in Communications Engineering. 
-- **B.Sc., Politecnico di Torino (2016 - 2019)** in Electronic and Communications Engineering. 
+- **Ph.D., ETH Zurich (2022–Present)** in the Dept. of Information Technology and Electrical Engineering. 
+- **M.Sc. with high distinction, Technical University of Munich (2019–2021)** in Communications Engineering. 
+- **B.Sc., Politecnico di Torino (2016–2019)** in Electronic and Communications Engineering. 
 
 ## Awards
 
