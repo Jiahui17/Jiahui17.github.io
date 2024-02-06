@@ -5,12 +5,11 @@
 
 ![mypic](assets/user/jiahui_profile_monterey.jpg =120x*)
 
-Hi! I am Jiahui Xu, a PhD student from Beijing, China. I joined the [Digital Systems and Design Automation Group (DYNAMO)](https://dynamo.ethz.ch/) at ETH Zurich in 2022. I am supervised by Prof. Lana Josipović. My research aims to improve high-level synthesis (HLS) design flow using formal methods. Currently, I am focusing on various aspects of using model checking to alleviate the resource overhead of dynamically-scheduled circuits produced from HLS. Checkout also my [Google Scholar](https://scholar.google.com/citations?user=SO-HH4gAAAAJ&hl=en&authuser=1) profile.
+Hi! I am Jiahui Xu, a PhD student from Beijing, China. I joined the [Digital Systems and Design Automation Group (DYNAMO)](https://dynamo.ethz.ch/) at ETH Zurich in 2022. I am supervised by Prof. Lana Josipović. My research aims to improve the quality and reliability of high-level synthesis (HLS) design flow using formal methods. Currently, I am focusing on various aspects of using model checking to alleviate the resource overhead of dynamically-scheduled circuits produced from HLS. 
 
 I have a background in telecommunications engineering. I hold a bachelor's degree in Electronic and Communications engineering from Politecnico di Torino, and a master’s degree in Communications Engineering from the Technical University of Munich.
 
 My contacts: [Email](mailto:jxu@ethz.ch), [LinkedIn](https://www.linkedin.com/in/jiahui-xu-787483204/).
-
 
 ## Education
 
@@ -30,6 +29,8 @@ My contacts: [Email](mailto:jxu@ethz.ch), [LinkedIn](https://www.linkedin.com/in
 
 
 ## Publications
+
+Checkout also my [Google Scholar](https://scholar.google.com/citations?user=SO-HH4gAAAAJ&hl=en&authuser=1) profile.
 
 - **Jiahui Xu** and Lana Josipović. Suppressing Spurious Dynamism of Dataflow Circuits via Latency and Occupancy Balancing. In *Proceedings of the 32nd ACM/SIGDA Intl. Symposium on Field Programmable Gate Arrays* (FPGA '24), to appear, Monterey, CA, March 2024.
 - **Jiahui Xu** and Lana Josipović. [Automatic Inductive Invariant Generation for Scalable Dataflow Circuit Verification](https://dynamo.ethz.ch/wp-content/uploads/sites/22/2023/10/Xu_ICCAD23_Inductive_Invariants.pdf). In *Proceedings of the Intl. Conference on Computer-Aided Design* (ICCAD '23), pages 1–9, San Francisco, CA, October 2023.
