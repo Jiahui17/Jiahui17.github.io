@@ -9,7 +9,10 @@ Hi! I am Jiahui Xu, a PhD student from Beijing, China. I joined the [Digital Sys
 
 I have a background in telecommunications engineering. I hold a bachelor's degree in Electronic and Communications engineering from Politecnico di Torino, and a master’s degree in Communications Engineering from the Technical University of Munich.
 
-My contacts: [Email](mailto:jxu@ethz.ch), [LinkedIn](https://www.linkedin.com/in/jiahui-xu-787483204/).
+My contacts:
+- [Email](mailto:jxu@ethz.ch),
+- [LinkedIn](https://www.linkedin.com/in/jiahui-xu-787483204/),
+- [GitHub](https://github.com/Jiahui17).
 
 ## Education
 
@@ -24,9 +27,9 @@ My contacts: [Email](mailto:jxu@ethz.ch), [LinkedIn](https://www.linkedin.com/in
 ## Academic Services
 
 - Publicity co-chair at IWLS ('24).
+- Reviewer for TCAD ('24).
 - Secondary reviewer at ASAP ('23), DSD ('23), FPT ('22, '23), FPGA ('24).
 - Artifact evaluator at FPGA ('24).
-
 
 ## Publications
 
@@ -36,3 +39,11 @@ Checkout also my [Google Scholar](https://scholar.google.com/citations?user=SO-H
 - **Jiahui Xu** and Lana Josipović. [Automatic Inductive Invariant Generation for Scalable Dataflow Circuit Verification](https://dynamo.ethz.ch/wp-content/uploads/sites/22/2023/10/Xu_ICCAD23_Inductive_Invariants.pdf). In *Proceedings of the Intl. Conference on Computer-Aided Design* (ICCAD '23), pages 1–9, San Francisco, CA, October 2023.
 - **Jiahui Xu** and Lana Josipović. [Automatic Inductive Invariant Generation for Scalable Dataflow Circuit Verification](https://dynamo.ethz.ch/wp-content/uploads/sites/22/2023/10/Xu_IWLS23_Inductive_Invariants.pdf). In *Proceedings of the Intl. Workshop on Logic & Synthesis* (IWLS '23), pages 179–87, Lausanne, June 2023.
 - **Jiahui Xu**, Emmet Murphy, Jordi Cortadella, and Lana Josipović. [Eliminating Excessive Dynamism of Dataflow Circuits Using Model Checking](https://dynamo.ethz.ch/wp-content/uploads/sites/22/2023/03/Xu_FPGA23_EliminatingExcessiveDynamism.pdf). In *Proceedings of the 31st ACM/SIGDA Intl. Symposium on Field Programmable Gate Arrays* (FPGA '23), pages 27–37, Monterey, CA, February 2023.
+
+
+
+
+
+
+
+
