@@ -9,10 +9,7 @@ Hi! I am Jiahui Xu, a PhD student from Beijing, China. I joined the [Digital Sys
 
 I have a background in telecommunications engineering. I hold a bachelor's degree in Electronic and Communications engineering from Politecnico di Torino, and a master’s degree in Communications Engineering from the Technical University of Munich.
 
-My contacts:
-- [Email](mailto:jxu@ethz.ch),
-- [LinkedIn](https://www.linkedin.com/in/jiahui-xu-787483204/),
-- [GitHub](https://github.com/Jiahui17).
+[Email](mailto:jxu@ethz.ch), [LinkedIn](https://www.linkedin.com/in/jiahui-xu-787483204/), [GitHub](https://github.com/Jiahui17).
 
 ## Education
 
