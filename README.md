@@ -3,7 +3,7 @@
 
 ## About me
 
-![mypic](assets/user/jiahui_iwls2024.jpg =120x*)
+![mypic](assets/user/jiahui_iwls2024.png =120x*)
 
 Hi! I am Jiahui Xu, a PhD student from Beijing, China. I joined the [Digital Systems and Design Automation Group (DYNAMO)](https://dynamo.ethz.ch/) at ETH Zurich in 2022. I am supervised by Prof. Lana Josipović. My research aims to improve the quality and reliability of high-level synthesis (HLS) design flow using formal methods. Currently, I am focusing on various aspects of using model checking to alleviate the resource overhead of dynamically-scheduled circuits produced from HLS. 
 
