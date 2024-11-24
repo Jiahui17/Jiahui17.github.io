@@ -23,7 +23,7 @@ I have a background in telecommunications engineering. I hold a bachelor's degre
 
 ## Academic Services
 
-- Publicity co-chair at IWLS ('24).
+- Publicity co-chair at IWLS ('24, '25).
 - Reviewer for TCAD ('24).
 - Secondary reviewer at ASAP ('23), DSD ('23), FPT ('22, '23), FPGA ('24).
 - Artifact evaluator at FPGA ('24).
@@ -32,6 +32,8 @@ I have a background in telecommunications engineering. I hold a bachelor's degre
 
 Checkout also my [Google Scholar](https://scholar.google.com/citations?user=SO-HH4gAAAAJ&hl=en&authuser=1) profile.
 
+
+- **Jiahui Xu** and Lana Josipović. CRUSH: A Credit-Based Approach for Functional Unit Sharing in Dynamically Scheduled HLS. In *Proceedings of the 30th International Conference on Architectural Support for Programming Languages and Operating Systems* (ASPLOS '25), to appear, Rotterdam, The Netherlands, March 2025.
 - **Jiahui Xu** and Lana Josipović. [Suppressing Spurious Dynamism of Dataflow Circuits via Latency and Occupancy Balancing](https://dl.acm.org/doi/10.1145/3626202.3637570). In *Proceedings of the 32nd ACM/SIGDA Intl. Symposium on Field Programmable Gate Arrays* (FPGA '24), pages 188–98, Monterey, CA, March 2024.
 - **Jiahui Xu** and Lana Josipović. [Automatic Inductive Invariant Generation for Scalable Dataflow Circuit Verification](https://dynamo.ethz.ch/wp-content/uploads/sites/22/2023/10/Xu_ICCAD23_Inductive_Invariants.pdf). In *Proceedings of the Intl. Conference on Computer-Aided Design* (ICCAD '23), pages 1–9, San Francisco, CA, October 2023.
 - **Jiahui Xu** and Lana Josipović. [Automatic Inductive Invariant Generation for Scalable Dataflow Circuit Verification](https://dynamo.ethz.ch/wp-content/uploads/sites/22/2023/10/Xu_IWLS23_Inductive_Invariants.pdf). In *Proceedings of the Intl. Workshop on Logic & Synthesis* (IWLS '23), pages 179–87, Lausanne, June 2023.
